@@ -23,7 +23,7 @@ Ejecutar a.out:
  ./a.out ./estimulos/divergingtree_150x150_40frs.bin  150 150 40 5 10
 
 3/SALIDA
-El código genera dos ficheros U.raw V.raw con las velocidades de cada pixel para el frame.
+El código genera dos ficheros U.raw V.raw con las velocidades de cada pixel para el frame. Visualizar con el código showUV.m desde Matlab
 
 4/PASOS HASTA TERMINAR
 Falta generar dos ficheros de velocidades pero con todos los frames
